@@ -24,3 +24,11 @@ The list of buttons will take you to the respective pages in my portfolio.
 
 The About Me page that I made.
 ![About](./dist/img/About.jpg)
+
+This Page is all of my projects that I have done.
+![Project](./dist/img/Project.jpg)
+
+The project button will take you to the deployed linked and the github button to the Github link.
+
+The How to Reach me Page shows my email and my phone number that I use as seen below.
+![Contact](./dist/img/Contact.png)
