@@ -239,6 +239,7 @@ main#home h1 {
 .projects img {
   width: 100%;
   border: 3px #fff solid;
+  height: 12rem;
 }
 .projects img:hover {
   opacity: 0.5;
