@@ -34,3 +34,8 @@ function toggleMenu() {
         showMenu = false;
     }
 }
+
+// set the copyright year
+const date = new Date();
+
+document.getElementById("main-footer").innerHTML = "Copyright &copy;" + date.getFullYear();
